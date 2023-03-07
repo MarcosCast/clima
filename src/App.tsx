@@ -4,7 +4,7 @@ import './App.scss';
 
 function App() {
 
-  /* API Key - 543e203878f91a37456c44cbf6cd7197*/ 
+  /* API Key - 543e203878f91a37456c44cbf6cd7197 */ 
   return (
     <div className="App">
       <body>
