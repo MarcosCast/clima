@@ -13,7 +13,14 @@ function App() {
     })
   }, [])
 
-  /* API Key - 543e203878f91a37456c44cbf6cd7197 */ 
+  /* API Key -  */ 
+  if(location == false){
+    return (
+      <Fragment>
+        Você precisa habilitar a localização no browser o/
+      </Fragment>
+    )
+} else{
   return (
     <Fragment>
       <h3>Clima (Ex)</h3>
@@ -27,6 +34,8 @@ function App() {
       </ul>
     </Fragment>  
   );
+}
+
 }
 
 export default App;
