@@ -1,6 +1,6 @@
 //import React from 'react';
 //import logo from './logo.svg';
-//import './App.scss';
+import './App.scss';
 
 function App() {
   /* API Key - 543e203878f91a37456c44cbf6cd7197 */ 
