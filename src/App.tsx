@@ -4,6 +4,7 @@ import './App.scss';
 
 function App() {
   /* API Key - 543e203878f91a37456c44cbf6cd7197 */ 
+  //Aparentemente os ícones gerados em html, n funcionam dentro do react
   return (
     <div className="App">
      <div className="center">
@@ -32,7 +33,7 @@ function App() {
             <p>Umidade</p>
           </div>
         </div>
-
+  
         <div className="vento">
           <i className="fa-solid fa-wind">Img de vento</i>
           <div className="text">
