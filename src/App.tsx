@@ -18,6 +18,7 @@ function App() {
           <i className="img-404">Inserir imagem de erro</i>
           <p>Putz, Localização Invalida!</p>
       </div>
+      
 
       <div className="weather-box">
         <img src="" alt="" />
